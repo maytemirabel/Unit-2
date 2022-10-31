@@ -1,4 +1,4 @@
-## Quiz 17
+## Quiz 17 - Word Length
 #### Program code
 Code a function that produces the average word length of the input list
 ```.py
