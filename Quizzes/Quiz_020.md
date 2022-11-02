@@ -1,4 +1,4 @@
-## Quiz 20 - 
+## Quiz 20 - Get Truth
 #### Program code
 Create a function that produces the table of truth for 3 inputs
 
