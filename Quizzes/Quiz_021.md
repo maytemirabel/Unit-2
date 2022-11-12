@@ -1,4 +1,4 @@
-## Quiz 21 - 
+## Quiz 21 
 #### Program code
 Using the function that produces the table of Truth for 3 inputs, add a column for the boolean equation.
 
@@ -24,3 +24,11 @@ print (table)
 
 #### Figure 1: Proof of program
 <img width="570" alt="Screen Shot 2022-11-09 at 8 14 40" src="https://user-images.githubusercontent.com/105724334/200696341-aef8910f-32b1-4675-b9e7-f75a2d557aa3.png">
+
+#### Boolean Circuit & Truth Table 
+Equation: X = ZW + (Z + Y(not W)) 
+#### Figure 2: Truth Table 
+![IMG_0459](https://user-images.githubusercontent.com/105724334/201460652-8e32b50b-9521-43a8-b44a-d615a8e3ee27.jpg)
+
+#### Figure 3: Circuit 
+![IMG_0458](https://user-images.githubusercontent.com/105724334/201459683-9f011069-3562-4e5f-bce5-d1897f204ef9.jpg)
