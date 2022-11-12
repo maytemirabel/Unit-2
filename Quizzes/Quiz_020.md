@@ -18,5 +18,4 @@ print (table)
 #### Figure 1: Proof of program
 <img width="316" alt="Screen Shot 2022-11-02 at 17 40 22" src="https://user-images.githubusercontent.com/105724334/199440882-657662e4-dfa1-472a-9014-737d5b7117fc.png">
 
-#### Prove that A (A + B) = A
-#### Figure 2: Proof of equation 
+
