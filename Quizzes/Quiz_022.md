@@ -1,4 +1,4 @@
-## Quiz 22 - 
+## Quiz 22
 #### Program code
 Create a program that produces n random values from the equation where m and s are the other inputs of the function
 
