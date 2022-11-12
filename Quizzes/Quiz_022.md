@@ -23,3 +23,6 @@ print (table)
 
 #### Figure 1: Proof of program
 <img width="372" alt="Screen Shot 2022-11-09 at 8 19 58" src="https://user-images.githubusercontent.com/105724334/200697055-93f2dffc-a506-4088-b778-6e702012433c.png">
+
+#### Prove that A (A + B) = A
+#### Figure 2: Proof of equation 
