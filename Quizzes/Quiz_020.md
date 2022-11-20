@@ -25,4 +25,5 @@ Equation: Light = S1S2+(S2+S3(notS1))S1
 ![IMG_0460](https://user-images.githubusercontent.com/105724334/201461260-ab8f2aa0-6a1b-4543-992b-b6cc16d09d54.jpg)
 
 #### Figure 3: Circuit 
-![IMG_0461](https://user-images.githubusercontent.com/105724334/201461261-251e76da-71f6-4c53-9260-732687929c0d.jpg)
+Equation: Light = S1S2+(S2+S3(notS1))S1 
+![IMG_478B1991AD5D-1](https://user-images.githubusercontent.com/105724334/202914675-e9407904-5db8-492f-bac5-e9d7d24dae89.jpeg)
