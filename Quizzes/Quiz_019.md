@@ -19,4 +19,5 @@ def get_l3tt3r(msg:str)-> str:
 #### Boolean Circuit 
 Equation: AB + not(B+C) + B(notC notA)
 #### Figure 2: Circuit 
-![IMG_0456](https://user-images.githubusercontent.com/105724334/201458713-60a56cc8-5e4e-42c7-823b-0257f5c18c3d.jpg)
+![IMG_3D6D772D013C-1](https://user-images.githubusercontent.com/105724334/202908167-8fe2ef23-35f7-4669-bb34-65860f0f067b.jpeg)
+
