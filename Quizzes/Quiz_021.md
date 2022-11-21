@@ -31,4 +31,6 @@ Equation: X = ZW + (Z + Y(not W))
 ![IMG_0459](https://user-images.githubusercontent.com/105724334/201460652-8e32b50b-9521-43a8-b44a-d615a8e3ee27.jpg)
 
 #### Figure 3: Circuit 
-![IMG_0458](https://user-images.githubusercontent.com/105724334/201459683-9f011069-3562-4e5f-bce5-d1897f204ef9.jpg)
+Equation: X = ZW + (Z + Y(not W)) 
+![IMG_0475](https://user-images.githubusercontent.com/105724334/202938549-6246f71a-37c1-4e0d-a1cf-2def478b2ad5.jpg)
+
