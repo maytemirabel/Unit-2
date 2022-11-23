@@ -31,4 +31,5 @@ plt.show()
 #### Boolean Circuit 
 Equation: not(bit0 bit1 + not(bit0 +bit1))
 #### Figure 2: Circuit
-![IMG_0465](https://user-images.githubusercontent.com/105724334/201505996-97a30704-b2a4-4502-933c-1d6784844056.jpg)
+![IMG_0486](https://user-images.githubusercontent.com/105724334/203496207-490b52e0-03f3-41e9-8a15-f7f2c6c1649b.jpg)
+
