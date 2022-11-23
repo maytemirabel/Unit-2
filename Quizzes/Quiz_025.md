@@ -24,3 +24,9 @@ plt.show()
 
 #### Figure 1: Proof of program
 <img width="627" alt="Screen Shot 2022-11-15 at 13 39 31" src="https://user-images.githubusercontent.com/105724334/201827778-65f38313-1f16-4b15-bcae-fc093c962b84.png">
+
+#### Convert to decimal 
+FFA5 
+#### Figure 2: Hexadecimal to decimal conversion 
+![IMG_0488](https://user-images.githubusercontent.com/105724334/203499038-296f03d1-7e17-4e88-98fc-5d64f0d97ba3.jpg)
+
