@@ -26,3 +26,4 @@ print (table)
 
 #### Prove that A (A + B) = A
 #### Figure 2: Proof of equation 
+![IMG_0492](https://user-images.githubusercontent.com/105724334/203806653-5c8fc474-530e-4ac0-9d9f-453fddc0aff4.jpg)
