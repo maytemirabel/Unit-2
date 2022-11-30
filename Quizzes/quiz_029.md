@@ -22,3 +22,6 @@ print (case2)
 
 
 #### How many different colors could be presented in a 6 bit computer?
+
+64 colors ca be represented in a 6 bit computer as 2 bits are used for red, green, and blue respectively. 
+(2^2)^3 = 4^3 = 64 
