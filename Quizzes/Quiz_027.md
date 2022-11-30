@@ -52,4 +52,4 @@ plt.show()
 red=250, green=100, blue=10
 
 #### Figure 2: Conversion 
-
+![IMG_0508](https://user-images.githubusercontent.com/105724334/204752047-796de01e-3c08-4d95-b2c8-e4d1a1d324ed.jpg)
