@@ -21,3 +21,4 @@ plt.show()
 Convert the following rgb color to hex color 
 red=10, green=255, blue=255
 #### Figure 2: Color conversion 
+![IMG_0509](https://user-images.githubusercontent.com/105724334/204753018-5604f4e7-7ee7-4f6d-b680-1c3e1dd2b1b9.jpg)
